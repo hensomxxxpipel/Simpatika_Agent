@@ -511,7 +511,7 @@ if "dataset_summary" not in st.session_state:
 #         st.error(f"⚠️ Gagal memuat file: {str(e)}")
 
 
-# # Tampilan 2
+## Tampilan 2
 st.set_page_config(page_title="Sentiment and Aspect Prediction", layout="wide")
 
 # Navbar

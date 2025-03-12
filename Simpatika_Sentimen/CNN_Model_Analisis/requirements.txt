@@ -1,0 +1,13 @@
+fastapi
+pydantic
+langchain-google-genai
+langchain
+python-dotenv
+deep-translator
+tensorflow
+numpy
+pandas
+streamlit
+requests
+streamlit-option-menu
+pickle
