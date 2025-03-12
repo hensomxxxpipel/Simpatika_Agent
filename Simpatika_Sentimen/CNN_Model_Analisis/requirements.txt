@@ -1,9 +1,9 @@
 fastapi
 pydantic
-langchain-google-genai
+langchain_google_genai
 langchain
-python-dotenv
-deep-translator
+dotenv
+deep_translator
 tensorflow
 numpy
 pandas
