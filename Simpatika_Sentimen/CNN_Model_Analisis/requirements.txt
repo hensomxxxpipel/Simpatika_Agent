@@ -9,5 +9,5 @@ numpy
 pandas
 streamlit
 requests
-streamlit-option-menu
+streamlit_option_menu
 pickle
