@@ -10,4 +10,4 @@ pandas
 streamlit
 requests
 streamlit_option_menu
-pickle
+pickle-mixin
