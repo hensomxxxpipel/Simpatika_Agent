@@ -14,27 +14,27 @@ from streamlit_option_menu import option_menu
 
 
 # Load tokenizer aspek
-with open('tokenizer_aspek.pkl', 'rb') as handle:
+with open(r'Simpatika_Sentimen/CNN_Model_Analisis/front-end/tokenizer_aspek.pkl', 'rb') as handle:
     tokenizer_aspek = pickle.load(handle)
 # with open(r'D:\Kerjaan\Magang\Simpatika_Sentimen\CNN_Model_Analisis\front-end\tokenizer_aspek.pkl', 'rb') as handle:
   
 # Load tokenizer sentimen
-with open('tokenizer_sentimen.pkl', 'rb') as handle:
+with open(r'Simpatika_Sentimen/CNN_Model_Analisis/front-end/tokenizer_sentimen.pkl', 'rb') as handle:
     tokenizer_sentimen = pickle.load(handle)
 
 # Load max_length aspek
-with open('max_length_aspek.pkl', 'rb') as f:
+with open(r'Simpatika_Sentimen/CNN_Model_Analisis/front-end/max_length_aspek.pkl', 'rb') as f:
     max_length_aspek = pickle.load(f)
         
 # Load max_length sentimen
-with open('max_length_sentimen.pkl', 'rb') as f:
+with open(r'Simpatika_Sentimen/CNN_Model_Analisis/front-end/max_length_sentimen.pkl', 'rb') as f:
     max_length_sentimen = pickle.load(f)
 
 # Load model aspek
-model_aspek = load_model('cnn_aspek_model.h5')
+model_aspek = load_model('Simpatika_Sentimen/CNN_Model_Analisis/front-end/cnn_aspek_model.h5')
 
 # Load model sentimen
-model_sentimen = load_model('cnn_sentiment_model.h5')
+model_sentimen = load_model('Simpatika_Sentimen/CNN_Model_Analisis/front-end/cnn_sentiment_model.h5')
 
 # Normalisasi
 norm = {
