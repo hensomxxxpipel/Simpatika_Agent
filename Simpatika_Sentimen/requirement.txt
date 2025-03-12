@@ -1,0 +1,5 @@
+Sastrawi
+pandas
+re
+pickle
+numpy

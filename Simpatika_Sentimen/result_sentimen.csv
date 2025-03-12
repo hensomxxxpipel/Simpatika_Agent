@@ -1,0 +1,102 @@
+content,score,aspek,sentimen,aspek,sentimen
+aplikasi sangat membantu pekerjaan,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+fiturnya lengkap mudah digunakan,5,Fitur,Positif  ,Fitur,Negatif
+sering error  login ,2,Autentikasi,Negatif  ,Autentikasi,Negatif
+tampilannya menarik user-friendly,5,Performa,Positif  ,Fitur,Positif
+butuh akses internet stabil,3,Kepraktisan,Netral  ,Informasi,Positif
+membantu sekali mengelola data,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+loading lama membuka aplikasi,2,Performa,Negatif  ,Performa,Negatif
+bagus sangat bermanfaat,5,Umum,Positif  ,Kepraktisan,Positif
+banyak iklan mengganggu,2,Iklan,Negatif  ,Iklan,Negatif
+terkadang sulit login ,3,Autentikasi,Netral  ,Autentikasi,Negatif
+mempermudah pekerjaan guru,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+aplikasi sering crash,2,Performa,Negatif  ,Performa,Negatif
+informasi diberikan sangat akurat,5,Informasi,Positif  ,Informasi,Positif
+butuh pembaruan lebih stabil,3,Performa,Netral  ,Informasi,Positif
+mudah digunakan semua orang,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+iklan terlalu sering muncul,2,Iklan,Negatif  ,Kepraktisan,Negatif
+sangat membantu mencari data,5,Kepraktisan,Positif  ,Informasi,Positif
+fitur-fiturnya canggih update,5,Fitur,Positif  ,Fitur,Negatif
+login  sering gagal,2,Autentikasi,Negatif  ,Autentikasi,Negatif
+terkadang lambat memuat halaman,3,Performa,Netral  ,Performa,Negatif
+desainnya simpel enak dipakai,5,Performa,Positif  ,Kepraktisan,Positif
+data ditampilkan kurang lengkap,3,Informasi,Netral  ,Fitur,Negatif
+aplikasi sangat lambat,2,Performa,Negatif  ,Performa,Positif
+sangat  praktis digunakan,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+suka tiba-tiba keluar sendiri,2,Performa,Negatif  ,Performa,Negatif
+informasi disajikan kurang update,3,Informasi,Netral  ,Informasi,Negatif
+butuh peningkatan kecepatan,3,Performa,Netral  ,Performa,Positif
+fitur pencarian sangat membantu,5,Fitur,Positif  ,Fitur,Positif
+aplikasi terlalu berat HP lama,2,Performa,Negatif  ,Kepraktisan,Negatif
+iklan muncul sedang bekerja,2,Iklan,Negatif  ,Kepraktisan,Negatif
+mempermudah akses data penting,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+terkadang susah diakses,3,Performa,Netral  ,Kepraktisan,Positif
+user interface sangat nyaman,5,Performa,Positif  ,Kepraktisan,Positif
+banyak bug perlu diperbaiki,2,Performa,Negatif  ,Umum,Netral
+bisa login  update,2,Autentikasi,Negatif  ,Autentikasi,Negatif
+cukup baik masih bug,3,Performa,Netral  ,Umum,Netral
+butuh fitur tambahan laporan,4,Fitur,Netral  ,Fitur,Positif
+respon aplikasi sangat cepat,5,Performa,Positif  ,Performa,Positif
+membantu pekerjaan administrasi,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+tampilan modern responsif,5,Performa,Positif  ,Fitur,Negatif
+iklan terlalu mengganggu,4,Iklan,Netral  ,Kepraktisan,Negatif
+banyak fitur menarik,5,Fitur,Positif  ,Fitur,Negatif
+login  sidik jari sangat membantu,5,Autentikasi,Positif  ,Autentikasi,Positif
+proses login  sangat lama,2,Autentikasi,Negatif  ,Informasi,Negatif
+data sering sinkron,3,Informasi,Netral  ,Informasi,Negatif
+mudah digunakan semua kalangan,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+terkadang error  alasan jelas,3,Performa,Netral  ,Informasi,Negatif
+informasi diberikan jelas,5,Informasi,Positif  ,Informasi,Positif
+memudahkan pencatatan data,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+iklan muncul tengah pekerjaan,2,Iklan,Negatif  ,Kepraktisan,Negatif
+butuh fitur dark mode,4,Fitur,Netral  ,Fitur,Positif
+update terbaru membuat lebih ringan,5,Performa,Positif  ,Informasi,Positif
+sistem keamanan sangat bagus,5,Autentikasi,Positif  ,Kepraktisan,Positif
+loading data sangat lambat,2,Performa,Negatif  ,Performa,Negatif
+fitur notifikasi sangat membantu,5,Fitur,Positif  ,Kepraktisan,Positif
+terkadang login  otomatis gagal,3,Autentikasi,Netral  ,Autentikasi,Negatif
+bisa diakses jaringan lemah,3,Kepraktisan,Netral  ,Kepraktisan,Negatif
+aplikasi sangat direkomendasikan,5,Umum,Positif  ,Fitur,Positif
+banyak fitur berguna,5,Fitur,Positif  ,Kepraktisan,Negatif
+pengalaman pengguna sangat baik,5,Performa,Positif  ,Kepraktisan,Positif
+sering update perubahan berarti,3,Umum,Netral  ,Informasi,Negatif
+butuh peningkatan stabilitas,3,Performa,Netral  ,Informasi,Positif
+iklan terlalu banyak versi gratis,2,Iklan,Negatif  ,Kepraktisan,Negatif
+proses sinkronisasi cepat,5,Performa,Positif  ,Informasi,Positif
+memudahkan manajemen tugas,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+butuh mode offline,4,Fitur,Netral  ,Informasi,Positif
+keamanan data sangat terjamin,5,Autentikasi,Positif  ,Autentikasi,Positif
+sangat mudah dioperasikan,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+aplikasi sering hang digunakan,2,Performa,Negatif  ,Performa,Negatif
+fitur backup data sangat bermanfaat,5,Fitur,Positif  ,Fitur,Positif
+terkadang sulit terhubung server,3,Performa,Netral  ,Autentikasi,Negatif
+mudah diakses kapan,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+tampilan sederhana efektif,5,Performa,Positif  ,Kepraktisan,Positif
+iklan terkadang membuat lag,3,Iklan,Netral  ,Iklan,Negatif
+fitur laporan sangat membantu,5,Fitur,Positif  ,Fitur,Positif
+butuh opsi pengaturan lebih lengkap,4,Fitur,Netral  ,Informasi,Positif
+desain sangat intuitif,5,Performa,Positif  ,Kepraktisan,Positif
+butuh perbaikan bug form input,3,Performa,Netral  ,Umum,Positif
+login  menggunakan email sangat mudah,5,Autentikasi,Positif  ,Kepraktisan,Positif
+proses update terkadang memakan waktu,3,Performa,Netral  ,Informasi,Positif
+terkadang aplikasi force close,2,Performa,Negatif  ,Fitur,Positif
+informasi diberikan sangat lengkap,5,Informasi,Positif  ,Informasi,Positif
+butuh lebih banyak opsi personalisasi,4,Fitur,Netral  ,Informasi,Positif
+tampilan aplikasi sangat menarik,5,Performa,Positif  ,Fitur,Positif
+banyak fitur inovatif,5,Fitur,Positif  ,Fitur,Negatif
+kecepatan respon aplikasi bagus,5,Performa,Positif  ,Performa,Positif
+sering gagal memuat halaman,2,Performa,Negatif  ,Umum,Negatif
+iklan muncul beberapa menit,2,Iklan,Negatif  ,Umum,Negatif
+pengalaman pengguna sangat nyaman,5,Performa,Positif  ,Kepraktisan,Positif
+butuh lebih banyak tutorial penggunaan,4,Informasi,Netral  ,Informasi,Positif
+keamanan akun sangat terjaga,5,Autentikasi,Positif  ,Autentikasi,Positif
+mudah dipahami pengguna baru,5,Kepraktisan,Positif  ,Kepraktisan,Positif
+banyak error  update terbaru,2,Performa,Negatif  ,Informasi,Negatif
+butuh fitur auto-save,4,Fitur,Netral  ,Fitur,Positif
+informasi ditampilkan akurat,5,Informasi,Positif  ,Informasi,Netral
+butuh dukungan lebih banyak perangkat,4,Fitur,Netral  ,Informasi,Positif
+aplikasi ringan cepat,5,Performa,Positif  ,Performa,Positif
+banyak fitur tidak digunakan,2,Fitur,Negatif  ,Kepraktisan,Negatif
+iklan terlalu berlebihan,2,Iklan,Negatif  ,Kepraktisan,Negatif
+butuh lebih banyak opsi integrasi,4,Fitur,Netral  ,Informasi,Positif
+aplikasi sangat stabil responsif,5,Performa,Positif  ,Fitur,Positif
