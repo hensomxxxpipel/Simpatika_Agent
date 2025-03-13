@@ -404,7 +404,7 @@ def predict_sentiment(text):
 
 
 # API URL
-API_URL = "https://vercel-fastapi-hensomxxxpipel-rachmat-adriansyahs-projects.vercel.app"
+API_URL = "https://vercel-fastapi-hensomxxxpipel-rachmat-adriansyahs-projects.vercel.app/"
 
 
 # Inisialisasi session state jika belum ada
